@@ -1,7 +1,7 @@
 ﻿using Books.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace Books.Data
+namespace Books.DataAccess.Data
 {
     public class ApplicationDbContext:DbContext
     {
@@ -10,5 +10,6 @@ namespace Books.Data
         }
 
         public DbSet<Category> Categories { get; set; }
+        public DbSet<CoverType> CoverTypes { get; set; }
     }
 }
