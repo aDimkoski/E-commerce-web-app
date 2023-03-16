@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Books.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20230312191741_AddCoverTypeToDB")]
-    partial class AddCoverTypeToDB
+    [Migration("20230316110624_AddCoverTypeToDb")]
+    partial class AddCoverTypeToDb
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

@@ -12,6 +12,7 @@ namespace Books.DataAccess.Repository
     {
         public ICategoryRepository CategoryRepository { get; private set; }
         public ICoverTypeRepository CoverTypeRepository { get; private set; }
+        public IProductRepository ProductRepository { get; private set; }
 
         private ApplicationDbContext _db;
 
@@ -20,6 +21,7 @@ namespace Books.DataAccess.Repository
             _db = db;
             CategoryRepository = new CategoryRepository(_db);
             CoverTypeRepository = new CoverTypeRepository(_db);
+            ProductRepository = new ProductRepository(_db);
         }
 
        
