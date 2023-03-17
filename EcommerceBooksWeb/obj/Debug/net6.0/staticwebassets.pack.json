@@ -41,6 +41,10 @@
       "PackagePath": "staticwebassets\\images\\products\\b8fb52bf-24b1-46ea-8ab2-73b3014fd655.jpg"
     },
     {
+      "Id": "C:\\Users\\alekm\\source\\repos\\Books\\EcommerceBooksWeb\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
       "Id": "C:\\Users\\alekm\\source\\repos\\Books\\EcommerceBooksWeb\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },

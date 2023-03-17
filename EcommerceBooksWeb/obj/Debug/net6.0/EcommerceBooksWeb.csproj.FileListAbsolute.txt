@@ -31,8 +31,6 @@ C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\refs\Micros
 C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
 C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
 C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
-C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
 C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
 C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
@@ -111,14 +109,11 @@ C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\refs\Micros
 C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
 C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
 C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
-C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
 C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
 C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
 C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
 C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
 C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
-C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
-C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
 C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
 C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
@@ -574,3 +569,12 @@ C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\runtimes\wi
 C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\obj\Debug\net6.0\EcommerceBooksWeb.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\Books.Utility.dll
+C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\Books.Utility.pdb
