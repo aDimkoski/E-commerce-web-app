@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\alekm\\source\\repos\\Books\\EcommerceBooksWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
       "Id": "C:\\Users\\alekm\\source\\repos\\Books\\EcommerceBooksWeb\\wwwroot\\images\\products\\33e6d987-59bc-4ff0-9553-cbede8362372.jpg",
       "PackagePath": "staticwebassets\\images\\products\\33e6d987-59bc-4ff0-9553-cbede8362372.jpg"
     },

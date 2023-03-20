@@ -578,3 +578,4 @@ C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\Microsoft.E
 C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\Books.Utility.dll
 C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\Books.Utility.pdb
+C:\Users\alekm\source\repos\Books\EcommerceBooksWeb\bin\Debug\net6.0\Stripe.net.dll

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dBvMjvZQQYg4NOe0QdVsrlNEI8TbUkdGbJ8P3R+v8AE=",
+  "Hash": "eE9DjOj8K3oY8Zb3Z2PDf1NNS04MqEPq6rzn4rHpx+Q=",
   "Source": "EcommerceBooksWeb",
   "BasePath": "_content/EcommerceBooksWeb",
   "Mode": "Default",
@@ -1120,6 +1120,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\alekm\\source\\repos\\Books\\EcommerceBooksWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "SourceId": "EcommerceBooksWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alekm\\source\\repos\\Books\\EcommerceBooksWeb\\wwwroot\\",
+      "BasePath": "_content/EcommerceBooksWeb",
+      "RelativePath": "images/lawn_leaf.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\lawn_leaf.jpg"
     },
     {
       "Identity": "C:\\Users\\alekm\\source\\repos\\Books\\EcommerceBooksWeb\\wwwroot\\images\\products\\33e6d987-59bc-4ff0-9553-cbede8362372.jpg",
